@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Monty10028
-- 👀 I’m interested in AI, Crypto & NFT
-- 🌱 I’m looking to collaborate on AI, Crypto and NFT's
+- 👀 I’m interested in AI, App Development, Blockchain technology.
+- 🌱 I’m looking to collaborate on AI & Blockchain.
 - 📫 How to reach me via email : ian.pincome@gmail.com
 
 <!---
