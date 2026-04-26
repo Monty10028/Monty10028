@@ -1,0 +1,4 @@
+Created this app using Google AI Studio in January 2026
+Works well. Need to modify to include more pictures for uploading
+Saves the data to to my Google Sheet as a log of each entry.
+As of 26.04.2026 have moved it to the Gemini 3.0 Flash model via a paid API.
